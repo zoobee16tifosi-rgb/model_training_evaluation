@@ -4,9 +4,9 @@
 
 # Home Credit Default Risk Prediction (Team6 - Six Sigma)
 
-**팀원**: 박주비(팀장), 이정화, 고준영
-**프로젝트 기간**: 2025.10.15 ~ 2025.10.20
-**데이터 출처**: [Kaggle - Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk)
+**팀원**: 박주비(팀장), 이정화, 고준영  
+**프로젝트 기간**: 2025.10.15 ~ 2025.10.20  
+**데이터 출처**: [Kaggle - Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk)  
 
 ---
 
@@ -117,9 +117,3 @@ SVC(
 * Threshold 조정이 모델 성능 개선의 핵심
 * 단순 데이터 확장(Bureau JOIN 등)이 성능 향상에 항상 도움되는 것은 아님
 * 인프라 제약 고려: SVM의 경우 연산량/커널 선택 중요
-
----
-
-원하면 제가 이 내용을 **GitHub 마크다운용 README 파일** 형식으로 바로 붙여넣기 가능하게 만들어서 첨부용으로 제공할 수도 있습니다.
-
-혹시 그렇게 만들어드릴까요?
