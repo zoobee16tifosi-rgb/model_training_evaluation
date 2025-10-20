@@ -3,7 +3,6 @@
 
 # Home Credit Default Risk Prediction (Team6 - Six Sigma)
 
-**팀원**: 박주비(팀장), 이정화, 고준영  
 **프로젝트 기간**: 2025.10.15 ~ 2025.10.20  
 **데이터 출처**: [Kaggle - Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk)  
 
